@@ -5,7 +5,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishal7684&show_icons=true&locale=en" alt="vishal7684" /></p>
+
 
 - 🔭 I’m currently working on [Amazon Sales Analysis](https://github.com/SamNijin/Analyzing-Amazon-Sales-Data)
 
