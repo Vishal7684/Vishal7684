@@ -7,9 +7,9 @@
 
 
 
-- 🔭 I’m currently working on CodeX Food&Bevrage Analysis
+- 🔭 I’m currently working on SpaceX Landing Prediction Project
 
-- 🌱 I’m currently learning **Google Advance Data Analytics, Tableu Specialization**
+- 🌱 I’m currently learning **Google Advance Data Analytics, Tableu Specialization, softskills**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vishal7684](https://github.com/Vishal7684)
 
