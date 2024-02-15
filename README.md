@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on SpaceX Landing Prediction Project
 
-- 🌱 I’m currently learning **Google Advance Data Analytics, Tableu Specialization, softskills**
+- 🌱 I’m currently learning **Google Advance Data Analytics, Powerbi exam preparation and softskills**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vishal7684](https://github.com/Vishal7684)
 
-- 📝 I regularly write articles on [https://medium.com/@vd0835841](https://medium.com/@vd0835841)
+- 📝 I regularly Post on [(https://www.linkedin.com/in/vishaldubeydataanalyst/)]
 
-- 💬 Ask me about **Python, SQL, PowerBI and Data Analysis**
+- 💬 Ask me about **Python, Excel, SQL, PowerBI and Data Analysis**
 
 - 📫 How to reach me **vd0835841@gmail.com**
 
